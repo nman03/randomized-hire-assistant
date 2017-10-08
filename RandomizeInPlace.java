@@ -1,4 +1,4 @@
-public class lab06_problem02_neilManimtim {
+public class RandomizeInPlace {
 
 	public static void randomizedHireAssistant(int[] A) {
 		System.out.println("Randomize In Place\n");
